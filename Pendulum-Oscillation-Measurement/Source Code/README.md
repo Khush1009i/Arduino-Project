@@ -28,3 +28,8 @@ Data Output: The results, including the time period and calculated gravitational
 ## Summary:
 - The code calculates the time period of the pendulum's oscillation by measuring the time between two consecutive crossings of the mean position.
 - It then computes the gravitational acceleration (g) based on the time period and outputs the results to the Serial Monitor.
+
+---
+
+## Output
+![image](https://github.com/Khush1009i/Arduino-Project/blob/main/Pendulum-Oscillation-Measurement/Source%20Code/Output.png)
