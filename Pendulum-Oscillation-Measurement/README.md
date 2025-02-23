@@ -51,7 +51,7 @@ The main code logic is written in the `Pendulum_Oscillation.ino` file. The code 
 <br>
 
 ## 👮🏻‍♂️License
-MIT License. See the [LICENSE](LICENSE) file for more details.
+MIT License. See the [LICENSE](https://github.com/Khush1009i/Arduino-Project/blob/main/LICENSE) file for more details.
 <br><br>
 
 ## 🤝Contributions
