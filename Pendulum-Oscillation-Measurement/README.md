@@ -50,6 +50,11 @@ The main code logic is written in the `Pendulum_Oscillation.ino` file. The code 
 - **Oscillation Counting**: The code correctly counts the number of oscillations and computes their respective time periods.
 <br>
 
+---
+## Output
+![image](https://github.com/Khush1009i/Arduino-Project/blob/main/Pendulum-Oscillation-Measurement/Source%20Code/Output.png)
+
+---
 ## 👮🏻‍♂️License
 MIT License. See the [LICENSE](https://github.com/Khush1009i/Arduino-Project/blob/main/LICENSE) file for more details.
 <br><br>
